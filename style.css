@@ -21,4 +21,6 @@
 .body{
     background-color: #857CEE;
     height: 1000px;
+    margin: 0px;
+    padding: 0px;
 }
