@@ -15,5 +15,5 @@
 
 .Corpo-P1{
     display: flex;
-    justify-content: first baseline;
+    justify-content: space-between;
 }
