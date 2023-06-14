@@ -17,3 +17,7 @@
     display: flex;
     justify-content: flex-start;
 }
+
+.body{
+    background-color: #857CEE;
+}
