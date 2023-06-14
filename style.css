@@ -13,3 +13,7 @@
     justify-content: center;
 }
 
+.Corpo-P1{
+    display: flex;
+    justify-content: flex-start;
+}
