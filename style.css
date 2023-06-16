@@ -28,7 +28,7 @@
 
 .Corpo-Base{
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     background-color: #857CEE;
     padding: 0px;
     margin: 0px;
