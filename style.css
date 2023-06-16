@@ -20,4 +20,8 @@
 .Corpo-P1{
     display: flex;
     justify-content: flex-start;
+    background-color: #857CEE;
+    padding: 0px;
+    margin: 0px;
+    height: 500px;
 }
