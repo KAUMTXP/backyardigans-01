@@ -8,12 +8,15 @@
     font-family: 'Indie Flower', cursive;
 }
 
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
 .Corpo{
     display: flex;
     justify-content: center;
     background-color: #857CEE;
-    padding: 0px;
-    margin: 0px;
     height: 100px;
 }
 
@@ -35,3 +38,11 @@
     height: 300px;
 }
 
+.Corpo-Final{
+    display: flex;
+    justify-content: center;
+    background-color: #857CEE;
+    padding:w 0px;
+    margin: 0px;
+    height: ;
+}
