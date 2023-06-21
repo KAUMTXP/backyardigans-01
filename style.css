@@ -22,6 +22,8 @@ li{
 .Corpo{
     display: flex;
     justify-content: center;
+    background-color: #857CEE;
+    height: 100px;
 }
 
 .Corpo-P1{
