@@ -28,7 +28,7 @@ li{
 
 .Corpo-P1{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     background-color: #857CEE;
     height: 500px;
 }
