@@ -24,6 +24,7 @@ li{
     justify-content: center;
     background-color: #857CEE;
     height: 100px;
+    font-size: 36px;
 }
 
 .Corpo-P1{
@@ -45,8 +46,4 @@ li{
     justify-content: center;
     background-color: #857CEE;
     height: 150px;
-}
-
-.h1{
-    font-size: 36px;
 }
